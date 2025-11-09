@@ -1,0 +1,5 @@
+flask
+opencv-python-headless
+scikit-image
+numpy
+tensorflow      # if your ML model needs it
